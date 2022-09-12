@@ -1,0 +1,64 @@
+{
+  "name": "eneax",
+  "description": "A starter blog built with Gatsby",
+  "version": "1.0.0",
+  "author": "Enea Xharja",
+  "bugs": {
+    "url": "https://github.com/eneax/blog/issues"
+  },
+  "homepage": "https://github.com/eneax/blog#readme",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "react",
+    "gatsby",
+    "styled-components"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eneax/blog"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "gatsby": "^4.22.1",
+    "gatsby-awesome-pagination": "^0.3.8",
+    "gatsby-plugin-image": "^2.22.0",
+    "gatsby-plugin-manifest": "^4.22.0",
+    "gatsby-plugin-sharp": "^4.22.0",
+    "gatsby-plugin-sitemap": "^5.22.0",
+    "gatsby-plugin-styled-components": "^5.22.0",
+    "gatsby-remark-autolink-headers": "^5.22.0",
+    "gatsby-remark-images": "^6.22.0",
+    "gatsby-remark-prismjs": "^6.22.0",
+    "gatsby-remark-responsive-iframe": "^5.22.0",
+    "gatsby-source-filesystem": "^4.22.0",
+    "gatsby-transformer-remark": "^5.22.0",
+    "gatsby-transformer-sharp": "^4.22.0",
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1",
+    "prismjs": "^1.29.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5",
+    "tsconfig-paths-webpack-plugin": "^4.0.0",
+    "typeface-merriweather": "1.1.13",
+    "typeface-montserrat": "1.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@types/react": "^18.0.19",
+    "@types/react-dom": "^18.0.6",
+    "@types/styled-components": "^5.1.26",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.3"
+  }
+}
