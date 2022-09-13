@@ -5,7 +5,7 @@ const config: GatsbyConfig = {
     title: `Enea Xharja`,
     description: `A starter blog built with Gatsby`,
     siteUrl: `https://starter-blog-x.netlify.app`,
-    logo: `https://starter-blog-x.netlify.app/static/profile-pic.png`,
+    logo: `https://starter-blog-x.netlify.app/profile-pic.png`,
     social: {
       github: `eneax`,
     },
