@@ -4,8 +4,8 @@ const config: GatsbyConfig = {
   siteMetadata: {
     title: `Enea Xharja`,
     description: `A starter blog built with Gatsby`,
-    siteUrl: `https://eneaxharja.com`,
-    logo: `https://eneaxharja.com/images/profile-pic.png`,
+    siteUrl: `https://starter-blog-x.netlify.app`,
+    logo: `https://starter-blog-x.netlify.app/static/profile-pic.png`,
     social: {
       github: `eneax`,
     },
