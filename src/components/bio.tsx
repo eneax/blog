@@ -47,9 +47,12 @@ const Bio = ({ showAvatar }: { showAvatar?: boolean }) => (
       )}
     </Link>
     <p>
-      Hey, I'm Enea! Welcome to my little corner of the web, where I share my
-      personal collection of notes, code snippets, and resources on{' '}
-      <Link to="/tags">topics</Link> that interest me.
+      Hey, I'm Enea, the creator of this starter blog. This project is built
+      with <a href="https://www.gatsbyjs.com">Gatsby</a>,{' '}
+      <a href="https://www.typescriptlang.org">TypeScript</a> and{' '}
+      <a href="https://styled-components.com">styled-components</a>. You can
+      find the open source code on{' '}
+      <a href="https://github.com/eneax/blog">GitHub</a>.
     </p>
   </BioWrapper>
 );
