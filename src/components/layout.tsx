@@ -76,7 +76,7 @@ const Layout = ({ location, title, children }: LayoutProps) => {
         <main>{children}</main>
         <Footer>
           <p>
-            <small>©</small> {new Date().getFullYear()} Enea Xharja
+            <small>©</small> {new Date().getFullYear()} Starter Blog
           </p>
         </Footer>
       </GlobalWrapper>

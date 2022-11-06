@@ -46,22 +46,6 @@ const AboutPage = ({ data, location }: PageProps<AboutPageProps>) => {
           <a href="https://github.com/eneax">GitHub</a> profile to see
           everything I have build so far.
         </p>
-
-        <h3>Connect</h3>
-        <p>
-          I love hearing from readers - praise, criticism, suggestions, feedback
-          or thoughts on any of my notes. Emails are always welcome. I really do
-          read all my emails, but if I don't respond, or do so only after an
-          unreasonable amount of time has passed, don't take it personally.
-        </p>
-
-        <p>
-          Here's how to reach me:{' '}
-          <span style={{ color: 'var(--color-primary)' }}>
-            eneaxharja [at] gmail [dot] com
-          </span>
-          .
-        </p>
       </section>
     </Layout>
   );
