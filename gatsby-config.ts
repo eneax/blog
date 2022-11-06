@@ -2,7 +2,7 @@ import type { GatsbyConfig } from 'gatsby';
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `Enea Xharja`,
+    title: `Starter Blog`,
     description: `A starter blog built with Gatsby`,
     siteUrl: `https://starter-blog-x.netlify.app`,
     logo: `https://starter-blog-x.netlify.app/profile-pic.png`,
@@ -58,8 +58,8 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Enea Xharja`,
-        short_name: `Enea`,
+        name: `Starter Blog`,
+        short_name: `Blog`,
         description: `A starter blog built with Gatsby`,
         start_url: `/`,
         background_color: `#000000`,
