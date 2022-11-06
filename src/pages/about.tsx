@@ -43,8 +43,8 @@ const AboutPage = ({ data, location }: PageProps<AboutPageProps>) => {
           about programming, enabling them to start their own personal projects,
           and hopefully also inspire someone to do the same and contribute to
           open source communities. Check out my{' '}
-          <a href="https://github.com/eneax">GitHub</a> profile to see
-          everything I have build so far.
+          <a href="https://github.com/eneax">GitHub profile</a> to see
+          everything I have build.
         </p>
       </section>
     </Layout>
